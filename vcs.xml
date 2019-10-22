@@ -30,8 +30,12 @@
           <option name="url" value="https://github.com/Khalidtoak/NewsSearcherV4.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/adryanev/AndroidNavigation.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\adrya\Code\android" />
+    <option name="cloneParentDir" value="D:\Code\android" />
   </component>
 </application>
